@@ -1,1 +1,1 @@
-This file is for log data from Mosquitto service.
+This directory is for log data from Mosquitto service.
